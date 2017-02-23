@@ -1,0 +1,2 @@
+- Code detects tennis balls but may or may not have trouble accessing the camera regularly.
+- If running Linux, run it under sudo or else it won't get any data from the camera which causes an error when converting to HSV.
