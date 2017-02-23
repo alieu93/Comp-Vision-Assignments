@@ -1,0 +1,5 @@
+Assignment 2 - Part 2 Analysis:
+
+(Adam Lieu - 100451790)
+
+I chose the size of the sub-space to be an array length of about 15,000. This is mainly due to having to hold a large amount of information calculated from processing the faces such as their eigenvalues, eigenvectors, means and so on. As a result of this large subspace size, the performance takes a sizable hit as it can be quite slow to query faces and get results from it. However, the information in it is quite accurate as a result,  as we can see from querying faces into the database. 
