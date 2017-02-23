@@ -1,0 +1,6 @@
+- Connected Components
+- Could blur it further and compare to old image, blurry regions won't be blurred as much as sharp regions
+	- Subtraction?
+- Laplacian filter
+
+- Special (Did he mean spatial?) frequency to freqency domain, then use connected components
